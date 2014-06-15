@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bangji</string>
+    <string name="app_write_msg">write_msg</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello android!</string>
+	<string name="tag_content">新房出租</string>
+	<string name="write_msg">发布信息</string>
+	<string name="publish_msg">确认发布</string>
+</resources>
