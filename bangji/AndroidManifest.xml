@@ -23,8 +23,11 @@
         </activity>
         <activity
             android:name="com.example.bangji.WriteMsg"
-            android:label="@string/app_write_msg" >
-            
+            android:label="@string/app_write_msg" >            
+        </activity>
+        <activity
+            android:name="com.example.bangji.Profile"
+            android:label="@string/app_profile" >
         </activity>
     </application>
 
